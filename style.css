@@ -1,0 +1,253 @@
+body {
+	background-color: #FFF1D6;
+	
+}
+
+p {
+	background-color: #FFF1D6;
+	font-family: 'Lora', serif;
+	color: #335C67; 
+	text-align: center;
+}
+
+h1 {
+	background-color: #FFF1D6;
+	color: #9E2A2B;
+	font-family: 'Sriracha', cursive;
+	text-align: center;
+}
+
+h2 {
+	background-color: #FFF1D6;
+	font-weight: bold;
+	font-family: 'Sriracha', cursive;
+	color: #9E2A2B; 
+	text-align: center;
+}
+
+#introduction {
+	text-align: center; 
+}
+
+.btn :hover {
+	color: #CF8F6E
+}
+
+
+#photo { 
+	border-radius: 50%;
+	align-content: center;
+}
+
+.social-media {
+	color: #FFF1D6; 
+	background-color: #CF8F6E;
+	text-decoration: none; 
+}
+	
+.btn {
+	color: #FFF1D6; 
+	background-color: #9E2A2B;
+	padding: 15px 20px; 
+	border-radius: 4px; 
+	text-decoration: none;
+  }
+
+p {
+	background-color: #FFF1D6;
+	font-family: 'Lora', serif;
+	color: #335C67; 
+	text-align: center;
+}
+
+h1 {
+	background-color: #FFF1D6;
+	color: #9E2A2B;
+	font-family: 'Sriracha', cursive;
+	text-align: center;
+}
+
+h2 {
+	background-color: #FFF1D6;
+	font-weight: bold;
+	font-family: 'Sriracha', cursive;
+	color: #9E2A2B; 
+	text-align: center;
+}
+
+a { 
+	text-align: center;
+ }
+
+#photo { 
+	border-radius: 50%;
+	text-align: center;
+}
+
+.social-media {
+	color: #FFF1D6; 
+	background-color: #CF8F6E;
+	font-weight: bold;
+	font-size: 40px; 
+	text-decoration: none; 
+	font-family: 'Lora', serif;
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	list-style: none;
+
+}
+
+.linkedin {
+	color: rgb(207, 143, 110); 
+	background-color: #FFF1D6;
+	font-weight: bold;
+	font-size: 14px; 
+	text-decoration: none; 
+	font-family: 'Lora', serif;
+
+}
+
+.banner { 
+
+    padding: 40px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px rgba(207,143,110,0.1);
+    border-radius: 4px;
+    width: 700px;
+    margin: 20px auto
+ }
+
+ .pink {
+ 	background:#FFF1D6
+ }
+
+.rose { 
+	background:#CF8F6E
+
+ }
+
+
+#div { 
+ 	width: 700px;
+    margin: 20px auto
+ }
+
+#introduction {
+	background:#FFF1D6
+}
+
+#IESEG {
+	background:#CF8F6E
+
+}
+
+#Traveling { 
+	background:#FFF1D6
+ }
+
+#Sport {
+	background:#CF8F6E
+}
+
+#Communication {
+	background:#FFF1D6	
+}
+
+#Follow-me {
+	background:#CF8F6E
+}
+
+
+
+
+	
+
+}
+
+.banner { 
+
+    padding: 40px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px rgba(207,143,110,0.1);
+    border-radius: 4px;
+    width: 700px;
+    margin: 20px auto
+ }
+
+ .pink {
+ 	background:#FFF1D6
+ }
+
+.rose { 
+	background:#CF8F6E
+
+ }
+
+
+#div { 
+ 	width: 700px;
+    margin: 20px auto
+ }
+
+ @media (max-width: 500px) {
+ 	#div { 
+ 	 width: 400px;
+ 	  }
+
+ }
+
+  @media (max-width: 760px) {
+ 	#div { 
+ 	 width: 600px;
+ 	  }
+
+ }
+
+
+#introduction {
+	background:#FFF1D6
+}
+
+#IESEG {
+	background:#CF8F6E
+
+}
+
+#Traveling { 
+	background:#FFF1D6
+ }
+
+#Sport {
+	background:#CF8F6E
+}
+
+#Communication {
+	background:#FFF1D6	
+}
+
+#Follow-me {
+	background:#CF8F6E
+}
+
+.liste {
+ list-style: none;
+ padding-left: 0px; 
+ display: inline;
+
+}
+
+.liste: hover { 
+	color: #9E2A2B;
+ }
+
+
+#Intro {
+	margin-bottom: 40px; 
+}
+
+#photo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
