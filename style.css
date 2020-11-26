@@ -1,3 +1,8 @@
+/*import */
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Open+Sans+Condensed:wght@300&display=swap');
+@import url("components/travelcard.css");
+
 body {
 	background-color: #FFF1D6;
 	
@@ -118,6 +123,16 @@ a {
     margin: 20px auto
  }
 
+ .travelbanner {
+ 	padding: 40px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px rgba(207,143,110,0.1);
+    border-radius: 4px;
+    width: 700px;
+    margin: 20px auto
+ }
+
+
  .pink {
  	background:#FFF1D6
  }
@@ -156,13 +171,6 @@ a {
 
 #Follow-me {
 	background:#CF8F6E
-}
-
-
-
-
-	
-
 }
 
 .banner { 
@@ -216,6 +224,7 @@ a {
 
 #Traveling { 
 	background:#FFF1D6
+	margin-bottom: 200;
  }
 
 #Sport {
@@ -241,6 +250,14 @@ a {
 	color: #9E2A2B;
  }
 
+.sportbanner {
+	margin-top: 450px;
+	height: 125px; 
+	width: 700px;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(207,143,110,0.1);
+    border-radius: 4px; 
+ }
 
 #Intro {
 	margin-bottom: 40px; 
